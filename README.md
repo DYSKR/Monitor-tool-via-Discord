@@ -6,5 +6,5 @@ Run the Script: Launch the script in PowerShell. The script will prompt you to e
 Monitor Events: The script starts monitoring and reporting logon events to the specified Discord channel.
 
 Note
-Make sure to replace the placeholder for the API token and server IP in the script with your actual token and IP address.
+Make sure to replace the placeholder for the API token and server IP in the script with your actual token and IP.
 This script is intended for educational or professional use. Please ensure it's used in accordance with applicable laws and guidelines.
